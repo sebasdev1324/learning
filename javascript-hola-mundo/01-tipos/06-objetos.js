@@ -17,4 +17,5 @@ personaje.edad = 35;
 let llave = edad;
 personaje[llave] = 16;
 
-delete personaje.serie;
+delete personaje.serie; //+elimina la propiedad serie del objeto personaje
+
